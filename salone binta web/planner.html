@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trip Planner | Tourism salone</title>
+    <link rel="stylesheet" href="css/style.css">
+</head>
+
+<body>
+    <header class="site-header"><a class="brand" href="index.html"><span class="brand-mark">TS</span><span>Tourism
+                <b>salone</b><small></small></span></a><button class="menu-toggle"
+            aria-label="Toggle navigation" aria-expanded="false">☰</button>
+        <nav class="nav"><a href="index.html">Home</a><a href="services.html">Services</a><a
+                href="planner.html">Trip Planner</a><a href="about.html">About</a><a href="contact.html">Contact</a>
+        </nav>
+    </header>
+    <main>
+        <section class="page-hero planner-hero">
+            <h1>Plain Your Adventure</em></h1>
+
+        </section>
+        <section class="section planner-layout">
+            <form id="planner-form" class="planner-form">
+                <div class="step-heading"><span>01</span>
+                    <div>
+                        <h2>What would you love to explore?</h2>
+                        <p>Select one or more interests.</p>
+                    </div>
+                </div>
+                <div class="interest-options"><label class="interest"><input type="checkbox" name="interest"
+                            value="beaches" checked><span>🏝️</span><b>Beaches</b></label><label class="interest"><input
+                            type="checkbox" name="interest"
+                            value="wildlife"><span>🌿</span><b>Wildlife</b></label><label class="interest"><input
+                            type="checkbox" name="interest" value="culture"><span>🏛️</span><b>Culture &
+                            heritage</b></label><label class="interest"><input type="checkbox" name="interest"
+                            value="islands"><span>⛵</span><b>Islands</b></label></div>
+                <div class="step-heading"><span>02</span>
+                    <div>
+                        <h2>How long is your trip?</h2>
+                        <p>Pick the number of days available.</p>
+                    </div>
+                </div><label class="field-label" for="days">Trip duration</label><select id="days" name="days">
+                    <option value="1">1 day</option>
+                    <option value="2">2 days</option>
+                    <option value="3" selected>3 days</option>
+                    <option value="4">4 days</option>
+                    <option value="5">5 days</option>
+                </select><label class="field-label" for="start">Where will you start?</label><select id="start"
+                    name="start">
+                    <option>Freetown</option>
+                    <option>Western Area Peninsula</option>
+                    <option>Bo</option>
+                    <option>Kenema</option>
+                    <option>Makeni</option>
+                </select><button class="btn btn-primary btn-full" type="submit">Create My Itinerary →</button>
+            </form>
+
+    </main>
+    <footer class="footer"><a class="brand brand-footer" href="index.html"><span
+                class="brand-mark">SE</span><span>Salone <b>Explorer</b><small>DISCOVER SIERRA LEONE</small></span></a>
+        <p>Discover more. Travel thoughtfully. Support local.</p>
+        <div class="footer-links"><a href="services.html">Services</a><a href="planner.html">Trip Planner</a><a
+                href="contact.html">Contact</a></div><small>© <span id="year"></span> Salone Explorer · Student web
+            design project</small>
+    </footer>
+    <script src="js/main.js"></script>
+</body>
+
+</html>
