@@ -40,3 +40,22 @@ Capture the Home page at desktop and mobile widths, Services with each filter se
 
 ## A3 design board suggestions
 Show the project title and short concept, colour palette (deep forest green, cream, lime accent), typography, five page screenshots, responsive mobile screenshot, user journey, and key interactive features.
+
+
+<img width="1731" height="2354" alt="Screenshot_24-10-2026_235445_" src="https://github.com/user-attachments/assets/2bb8cd76-09b6-4bd8-b790-fb4d4a557b0f" />
+
+<img width="1731" height="1560" alt="Screenshot_24-10-2026_235513_" src="https://github.com/user-attachments/assets/9ad333df-48d2-4363-bf7c-4946482cf5ce" />
+
+<img width="1731" height="1763" alt="Screenshot_24-10-2026_235534_" src="https://github.com/user-attachments/assets/a47555e9-5e6e-4014-bcd3-f1c5e16e0eac" />
+
+
+<img width="1731" height="1223" alt="Screenshot_24-10-2026_235556_" src="https://github.com/user-attachments/assets/f5d0654f-1de6-4b67-a62a-9f0ebc2eaf13" />
+
+
+<img width="1731" height="1601" alt="Screenshot_24-10-2026_235618_" src="https://github.com/user-attachments/assets/03e94319-db32-413d-b32f-b83f2d39ebf6" />
+
+
+
+
+
+
